@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C13C1F28-19E6-4959-AAF8-E4FECE3C5E6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C446559A-4626-47A2-899C-E067D17F2619}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "pink hair dont care", "src\pink hair dont care\pink hair dont care.xproj", "{DA5B9F17-9BAB-4B9E-9128-C8AF68613F38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5B9F17-9BAB-4B9E-9128-C8AF68613F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5B9F17-9BAB-4B9E-9128-C8AF68613F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5B9F17-9BAB-4B9E-9128-C8AF68613F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5B9F17-9BAB-4B9E-9128-C8AF68613F38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DA5B9F17-9BAB-4B9E-9128-C8AF68613F38} = {C13C1F28-19E6-4959-AAF8-E4FECE3C5E6B}
+	EndGlobalSection
+EndGlobal
